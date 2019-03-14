@@ -10,7 +10,7 @@ R:Pois os dados estão armazenados na memória cache do cluster, assim não se t
 
 Qual é a função do SparkContext?
 
-R:É criar e permitir acesso a todo o ambiente do Spark, uma interface que traduz os comandos efetuados para a execução do código Spark.
+R: É criar e permitir acesso a todo o ambiente do Spark, uma interface que traduz os comandos efetuados para a execução do código Spark.
 
 Explique com suas palavras o que é Resilient Distributed Datasets (RDD).
 
